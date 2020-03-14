@@ -1,4 +1,3 @@
-Learn more or give us feedback
 from datetime import datetime
 from flask_wtf import Form
 from wtforms import StringField, SelectField, SelectMultipleField, DateTimeField, TextAreaField, BooleanField
